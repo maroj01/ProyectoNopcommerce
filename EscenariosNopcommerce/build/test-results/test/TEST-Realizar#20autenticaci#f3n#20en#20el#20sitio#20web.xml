@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Realizar autenticación en el sitio web" tests="4" skipped="0" failures="4" errors="0" timestamp="2022-03-16T16:33:38" hostname="SISAZADRI" time="0.178">
+  <properties/>
+  <testcase name="Login a la plataforma con datos válidos" classname="Realizar autenticación en el sitio web" time="0.147">
+    <failure message="io.cucumber.junit.UndefinedStepException: The step 'que se ingresó al home de la tienda virtual' and 3 other step(s) are undefined.&#10;You can implement these steps using the snippet(s) below:&#10;&#10;@Dado(&quot;que se ingresó al home de la tienda virtual&quot;)&#10;public void queSeIngresóAlHomeDeLaTiendaVirtual() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Cuando(&quot;me autentico con el email y password&quot;)&#10;public void meAutenticoConElEmailYPassword() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Entonces(&quot;se mostrará el mensaje de bienvenida&quot;)&#10;public void seMostraráElMensajeDeBienvenida() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Entonces(&quot;se mostrará la zona de compras&quot;)&#10;public void seMostraráLaZonaDeCompras() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: The step 'que se ingresó al home de la tienda virtual' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Dado(&quot;que se ingresó al home de la tienda virtual&quot;)
+public void queSeIngresóAlHomeDeLaTiendaVirtual() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Cuando(&quot;me autentico con el email y password&quot;)
+public void meAutenticoConElEmailYPassword() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Entonces(&quot;se mostrará el mensaje de bienvenida&quot;)
+public void seMostraráElMensajeDeBienvenida() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Entonces(&quot;se mostrará la zona de compras&quot;)
+public void seMostraráLaZonaDeCompras() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</failure>
+  </testcase>
+  <testcase name="Login a la plataforma con datos inválidos #1" classname="Realizar autenticación en el sitio web" time="0.009">
+    <failure message="io.cucumber.junit.UndefinedStepException: The step 'que se ingresó al home de la tienda virtual' and 2 other step(s) are undefined.&#10;You can implement these steps using the snippet(s) below:&#10;&#10;@Dado(&quot;que se ingresó al home de la tienda virtual&quot;)&#10;public void queSeIngresóAlHomeDeLaTiendaVirtual() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Cuando(&quot;me autentico con email adri.rojas990@gmail.com y password Sofka2029 erroneos&quot;)&#10;public void meAutenticoConEmailAdriRojas990GmailComYPasswordSofka2029Erroneos() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Entonces(&quot;se mostrará el mensaje de error&quot;)&#10;public void seMostraráElMensajeDeError() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: The step 'que se ingresó al home de la tienda virtual' and 2 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Dado(&quot;que se ingresó al home de la tienda virtual&quot;)
+public void queSeIngresóAlHomeDeLaTiendaVirtual() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Cuando(&quot;me autentico con email adri.rojas990@gmail.com y password Sofka2029 erroneos&quot;)
+public void meAutenticoConEmailAdriRojas990GmailComYPasswordSofka2029Erroneos() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Entonces(&quot;se mostrará el mensaje de error&quot;)
+public void seMostraráElMensajeDeError() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</failure>
+  </testcase>
+  <testcase name="Login a la plataforma con datos inválidos #2" classname="Realizar autenticación en el sitio web" time="0.009">
+    <failure message="io.cucumber.junit.UndefinedStepException: The step 'que se ingresó al home de la tienda virtual' and 2 other step(s) are undefined.&#10;You can implement these steps using the snippet(s) below:&#10;&#10;@Dado(&quot;que se ingresó al home de la tienda virtual&quot;)&#10;public void queSeIngresóAlHomeDeLaTiendaVirtual() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Cuando(&quot;me autentico con email adrirojas990@gmail.com y password Sofka2022 erroneos&quot;)&#10;public void meAutenticoConEmailAdrirojas990GmailComYPasswordSofka2022Erroneos() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Entonces(&quot;se mostrará el mensaje de error&quot;)&#10;public void seMostraráElMensajeDeError() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: The step 'que se ingresó al home de la tienda virtual' and 2 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Dado(&quot;que se ingresó al home de la tienda virtual&quot;)
+public void queSeIngresóAlHomeDeLaTiendaVirtual() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Cuando(&quot;me autentico con email adrirojas990@gmail.com y password Sofka2022 erroneos&quot;)
+public void meAutenticoConEmailAdrirojas990GmailComYPasswordSofka2022Erroneos() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Entonces(&quot;se mostrará el mensaje de error&quot;)
+public void seMostraráElMensajeDeError() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</failure>
+  </testcase>
+  <testcase name="Login a la plataforma con datos inválidos #3" classname="Realizar autenticación en el sitio web" time="0.013">
+    <failure message="io.cucumber.junit.UndefinedStepException: The step 'que se ingresó al home de la tienda virtual' and 2 other step(s) are undefined.&#10;You can implement these steps using the snippet(s) below:&#10;&#10;@Dado(&quot;que se ingresó al home de la tienda virtual&quot;)&#10;public void queSeIngresóAlHomeDeLaTiendaVirtual() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Cuando(&quot;me autentico con email adri.rojas@gmail.com y password Sofka2021 erroneos&quot;)&#10;public void meAutenticoConEmailAdriRojasGmailComYPasswordSofka2021Erroneos() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Entonces(&quot;se mostrará el mensaje de error&quot;)&#10;public void seMostraráElMensajeDeError() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: The step 'que se ingresó al home de la tienda virtual' and 2 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Dado(&quot;que se ingresó al home de la tienda virtual&quot;)
+public void queSeIngresóAlHomeDeLaTiendaVirtual() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Cuando(&quot;me autentico con email adri.rojas@gmail.com y password Sofka2021 erroneos&quot;)
+public void meAutenticoConEmailAdriRojasGmailComYPasswordSofka2021Erroneos() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Entonces(&quot;se mostrará el mensaje de error&quot;)
+public void seMostraráElMensajeDeError() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
